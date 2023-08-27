@@ -1,17 +1,63 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M102 25H98C96.3431 25 95 26.3431 95 28V52C95 53.6569 96.3431 55 98 55H102C103.657 55 105 53.6569 105 52V28C105 26.3431 103.657 25 102 25Z" fill="#9288FF"/>
-<path d="M132.332 32.2976L128.678 30.6706C127.165 29.9967 125.391 30.6774 124.717 32.191L114.956 54.1161C114.282 55.6297 114.962 57.4031 116.476 58.077L120.13 59.7039C121.644 60.3778 123.417 59.6971 124.091 58.1835L133.853 36.2584C134.527 34.7448 133.846 32.9715 132.332 32.2976Z" fill="#9288FF"/>
-<path d="M157.074 51.3015L154.398 48.3289C153.289 47.0976 151.392 46.9982 150.161 48.1069L132.325 64.166C131.094 65.2747 130.995 67.1716 132.103 68.4028L134.78 71.3754C135.888 72.6067 137.785 72.7061 139.017 71.5975L156.852 55.5383C158.083 54.4297 158.183 52.5328 157.074 51.3015Z" fill="#9288FF"/>
-<path d="M171.947 78.7258L170.711 74.9216C170.199 73.3459 168.507 72.4835 166.931 72.9955L144.106 80.4119C142.53 80.9239 141.668 82.6164 142.18 84.1921L143.416 87.9964C143.928 89.5721 145.62 90.4345 147.196 89.9225L170.021 82.5061C171.597 81.9941 172.459 80.3016 171.947 78.7258Z" fill="#9288FF"/>
-<path d="M174.38 109.829L174.798 105.851C174.971 104.203 173.776 102.727 172.128 102.553L148.26 100.045C146.612 99.8716 145.136 101.067 144.963 102.715L144.544 106.693C144.371 108.341 145.567 109.817 147.214 109.99L171.083 112.499C172.731 112.672 174.207 111.476 174.38 109.829Z" fill="#9288FF"/>
-<path d="M163.952 139.232L165.952 135.768C166.78 134.333 166.289 132.498 164.854 131.67L144.069 119.67C142.634 118.841 140.8 119.333 139.971 120.768L137.971 124.232C137.143 125.667 137.634 127.502 139.069 128.33L159.854 140.33C161.289 141.159 163.123 140.667 163.952 139.232Z" fill="#9288FF"/>
-<path d="M142.466 161.852L145.702 159.501C147.042 158.527 147.34 156.651 146.366 155.31L132.259 135.894C131.285 134.553 129.409 134.256 128.068 135.23L124.832 137.581C123.492 138.555 123.195 140.431 124.169 141.772L138.275 161.188C139.249 162.529 141.125 162.826 142.466 161.852Z" fill="#9288FF"/>
-<path d="M113.637 173.777L117.55 172.945C119.17 172.601 120.205 171.008 119.86 169.387L114.87 145.912C114.526 144.291 112.933 143.256 111.312 143.601L107.4 144.432C105.779 144.777 104.745 146.37 105.089 147.991L110.079 171.466C110.423 173.087 112.016 174.121 113.637 173.777Z" fill="#9288FF"/>
-<path d="M82.4503 172.945L86.3629 173.777C87.9836 174.121 89.5766 173.087 89.9211 171.466L94.911 147.991C95.2555 146.37 94.2209 144.777 92.6003 144.432L88.6877 143.601C87.067 143.256 85.474 144.291 85.1295 145.912L80.1396 169.387C79.7951 171.008 80.8297 172.601 82.4503 172.945Z" fill="#9288FF"/>
-<path d="M54.2981 159.501L57.5341 161.852C58.8746 162.826 60.7507 162.529 61.7245 161.188L75.8314 141.772C76.8053 140.431 76.5081 138.555 75.1677 137.581L71.9316 135.23C70.5912 134.256 68.7151 134.553 67.7412 135.894L53.6344 155.31C52.6605 156.651 52.9576 158.527 54.2981 159.501Z" fill="#9288FF"/>
-<path d="M34.0481 135.768L36.0481 139.232C36.8765 140.667 38.7113 141.159 40.1462 140.33L60.9308 128.33C62.3657 127.502 62.8573 125.667 62.0289 124.232L60.0289 120.768C59.2004 119.333 57.3657 118.841 55.9308 119.67L35.1462 131.67C33.7113 132.498 33.2197 134.333 34.0481 135.768Z" fill="#9288FF"/>
-<path d="M25.2018 105.851L25.6199 109.829C25.7931 111.476 27.2693 112.672 28.9171 112.499L52.7856 109.99C54.4334 109.817 55.6288 108.341 55.4556 106.693L55.0375 102.715C54.8643 101.067 53.3881 99.8715 51.7403 100.045L27.8718 102.553C26.224 102.727 25.0286 104.203 25.2018 105.851Z" fill="#9288FF"/>
-<path d="M29.2888 74.9216L28.0527 78.7258C27.5407 80.3016 28.4031 81.9941 29.9788 82.5061L52.8042 89.9225C54.38 90.4345 56.0724 89.5721 56.5844 87.9964L57.8205 84.1921C58.3325 82.6164 57.4701 80.9239 55.8944 80.4119L33.069 72.9955C31.4932 72.4835 29.8008 73.3459 29.2888 74.9216Z" fill="#9288FF"/>
-<path d="M45.6024 48.3289L42.9259 51.3015C41.8172 52.5328 41.9166 54.4297 43.1479 55.5383L60.9834 71.5975C62.2147 72.7061 64.1116 72.6067 65.2202 71.3754L67.8967 68.4028C69.0054 67.1716 68.906 65.2747 67.6747 64.166L49.8392 48.1069C48.6079 46.9982 46.7111 47.0976 45.6024 48.3289Z" fill="#9288FF"/>
-<path d="M71.3219 30.6706L67.6677 32.2976C66.1541 32.9715 65.4733 34.7448 66.1472 36.2584L75.9089 58.1835C76.5828 59.6971 78.3562 60.3778 79.8698 59.7039L83.5239 58.077C85.0376 57.4031 85.7183 55.6297 85.0444 54.1161L75.2827 32.191C74.6088 30.6774 72.8355 29.9967 71.3219 30.6706Z" fill="#9288FF"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:transparent;display:block;" width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<g transform="rotate(0 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.9333333333333333s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(24 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.8666666666666667s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(48 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.8s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(72 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.7333333333333333s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(96 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.6666666666666666s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(120 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.6s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(144 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.5333333333333333s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(168 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.4666666666666667s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(192 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.4s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(216 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.3333333333333333s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(240 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.26666666666666666s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(264 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.2s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(288 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.13333333333333333s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(312 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="-0.06666666666666667s" repeatCount="indefinite"></animate>
+  </rect>
+</g><g transform="rotate(336 50 50)">
+  <rect x="47.5" y="12.5" rx="1.5" ry="1.5" width="5" height="15" fill="#9288FF">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="1s" begin="0s" repeatCount="indefinite"></animate>
+  </rect>
+</g>
 </svg>
